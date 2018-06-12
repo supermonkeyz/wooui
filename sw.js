@@ -58,7 +58,7 @@ var __wpo = {
     "9a1b075a1bdaa66bd039f88136c5bbac46825e33": "./js/Button-md.js",
     "7588c5b1f4278147bf1bdc07ecf3453ab80f25e5": "./js/resources-vue.js",
     "ea8342b4f9482155d8334d574d77c0bb19f843aa": "./js/component-md.js",
-    "71a3881dd99dfb46baa09d8926e76d071d223549": "./js/ToolBar-md.js",
+    "e974ee46d3f5c3822853720cdc15f264cd349d53": "./js/ToolBar-md.js",
     "0e6adf31391db16379739b2794441e641c94fe1d": "./js/Toast-md.js",
     "16ec845babd35f0eca51813a9cfdee7a1dca4e05": "./js/StatusBar-md.js",
     "a59d36c6a8e2f9485358761a42f63ee91b66f5ec": "./js/Checkbox-md.js",
@@ -88,7 +88,7 @@ var __wpo = {
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2018/6/12 下午2:16:35",
+  "version": "2018/6/12 下午4:06:10",
   "name": "webpack-offline",
   "pluginVersion": "4.9.0",
   "relativePaths": true

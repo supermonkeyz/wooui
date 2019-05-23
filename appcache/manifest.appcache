@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2018/6/12 下午4:06:10
+#ver:2019/5/23 下午3:06:02
 #plugin:4.9.0
 
 CACHE:
@@ -12,6 +12,7 @@ CACHE:
 ../js/Loading-md.js
 ../js/index-vue.js
 ../js/Like-md.js
+../js/Cell-md.js
 ../js/Button-md.js
 ../js/resources-vue.js
 ../js/component-md.js
@@ -32,6 +33,7 @@ CACHE:
 ../js/style-md.js
 ../js/static-md.js
 ../js/installation-md.js
+../js/i18n-md.js
 ../js/getstarted-md.js
 ../js/about-md.js
 ../js/Title-md.js

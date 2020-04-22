@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2020/2/22 下午10:36:19
+#ver:2020/4/22 下午12:31:36
 #plugin:4.9.0
 
 CACHE:
@@ -31,15 +31,15 @@ CACHE:
 ../js/Title-md.js
 ../js/Tab-md.js
 ../js/Switch-md.js
+../js/Panel-md.js
 ../js/Follow-md.js
+../js/Divider-md.js
 ../js/style-md.js
 ../js/static-md.js
 ../js/installation-md.js
 ../js/i18n-md.js
 ../js/getstarted-md.js
 ../js/about-md.js
-../js/Panel-md.js
-../js/Divider-md.js
 ../js/app.js
 ../js/vendor.js
 ../js/manifest.js
